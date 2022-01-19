@@ -1,0 +1,10 @@
+hr {
+    border: 1px solid;
+}
+.col-3 {
+    border: 1px dashed;
+}
+
+.container {
+    background-color: grey;
+}
